@@ -1,0 +1,4 @@
+deny from all
+ErrorDocument 403 '<br><b><div style=\"color:red;text-align:center;font-size: 20px;\">Vous n avez pas l acreditations necessaire pour accedé a cette page !</b>'
+allow from 109.133.193.138
+allow from 127.0.0.1
