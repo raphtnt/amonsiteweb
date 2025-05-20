@@ -13,6 +13,7 @@
         <li><a href="./">Accueil</a></li>
         <li><a href="#">Règlement</a></li>
         <li><a href="#">Informations</a></li>
+        <li><a href="./pokedex.php">Pokédex</a></li>
      </ul>
       <?php
 
